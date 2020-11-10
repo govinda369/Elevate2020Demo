@@ -26,7 +26,7 @@ long richtextedittype = 2
 long richtexteditx64type = 3
 long richtexteditversion = 1
 string richtexteditkey = ""
-string appicon = ""
+string appicon = "png\echarts.ico"
 string fullbuildruntimeversion = "19.2.0.2588"
 end type
 global echarts echarts
